@@ -1,2 +1,1 @@
-# BA780
-Python Project
+# MSBA Course: Introduction to Data Analytics (BA780)
