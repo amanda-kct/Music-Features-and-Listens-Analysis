@@ -1,1 +1,1 @@
-# MSBA Course: Introduction to Data Analytics (BA780)
+MSBA Course: Introduction to Data Analytics (BA780)
